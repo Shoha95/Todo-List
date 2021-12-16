@@ -1,0 +1,18 @@
+.Item {
+    display: flex;
+    justify-content: space-between;
+    margin: 10px 0;
+}
+.input_item {
+    align-self: flex-start;
+}
+.input_item input {
+    margin-right: 8px;
+    cursor: pointer;
+}
+.btn {
+    align-self: flex-end;
+}
+.btn button {
+    cursor: pointer;
+}
